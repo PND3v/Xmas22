@@ -1,5 +1,5 @@
 # My Christmas List
-This list will be updated over time. I understand not all items are able to ship before Christmas, and that's okay with me. I also understand that I most likely won't be able to get everything on this list, so I updated this list to be (mostly) organized by priority. [**Other**](https://github.com/PND3v/Xmas22#other) is below [**Clothes**](https://github.com/PND3v/Xmas22#clothes) cause I felt like organizing it like that lol. Striked through text are things that are no longer of interest or in high demand in my opinion, or seem like too much to ask for. Click on the product's *title* to be directly linked to the item's store, shop page, or purchasing interface. Thx, bye!
+This list will be updated over time. I understand not all items are able to ship before Christmas, and that's okay with me. I also understand that I most likely won't be able to get everything on this list, so I updated this list to be (mostly) organized by priority. [**Other**](https://github.com/PND3v/Xmas22#other) is below [**Clothes**](https://github.com/PND3v/Xmas22#clothes) cause I felt like organizing it like that lol. [**Other**](https://github.com/PND3v/Xmas22#other) can also be considered the presents of recommendation for people who don't know what to get me for Christmans. Striked through text are things that are no longer of interest or in high demand in my opinion, or seem like too much to ask for. Click on the product's *title* to be directly linked to the item's store, shop page, or purchasing interface. Thx, bye!
 
 -----
 ## [Flipper Zero](https://shop.flipperzero.one/)
@@ -14,17 +14,17 @@ $**74.99** | A USB plug that utilizes Keystroke Injection from **Hak5**.
 ## ~~[ASIC miner or GPU mining rig]()~~
 $**** | Prices tend to vary. Will updaate later.
 
-## [Forza Horizon 5](https://store.steampowered.com/app/1551360/Forza_Horizon_5/)
-$**59.99** | Fast-paced car racing game. This is the fifth version of this game, getting released over a year ago on November 8, 2021.
-
 ## Clothes
 
 $6.00 [SHEIN Daisy Embroidered Rib-knit Tee](https://us.shein.com/SHEIN-Daisy-Embroidered-Rib-knit-Tee-p-1941079-cat-1738.html) Size: `M(6)`
 
 ## Other
+## [Forza Horizon 5](https://store.steampowered.com/app/1551360/Forza_Horizon_5/)
+$**59.99** | Fast-paced car racing game. This is the fifth version of this game, getting released over a year ago on November 8, 2021.
 
-$7.90 [Monarch Butterfly Enamel Pin](https://www.hottopic.com/product/monarch-butterfly-enamel-pin/16095777.html)
 
+## Pet hair/lint [clothes] roller
+~$5–15 | It's in the name. Really a meme/joke present, but would still actually find it cool and appreciate it as a gift if [it] was given to me.
 -----
 Total: ~$**** 🙀
 
@@ -38,8 +38,6 @@ https://www.ankraal.com/collections/platform-boots?SC-BT16-0825-BM-001
 
 [  ] graffiti jeans
 https://www.boohooman.com/us/tall-skinny-bandana-rip-graffiti-jeans/BMM01178-105-269.html
-
-[  ] pet hair clothes roller
 
 [  ] NFC/RFID Ring
 https://dangerousthings.com/product/magic-ring/
