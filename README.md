@@ -3,7 +3,7 @@ This list will be updated over time. I understand not all items are able to ship
 
 -----
 ## [Flipper Zero](https://shop.flipperzero.one/)
-$**169.00** Restocks in <img src="http://i.countdownmail.com/2874qv.gif" border="0" alt="five days!"/>| A pentesting tool sed to emulate radio protocols, control systems, RFID/NFC, bluetooth, infared, and much more! You can read about it [here](https://flipperzero.one/).
+$**169.00** (Restocks in <img src="https://i.countdownmail.com/2874qv.gif" border="0" alt="countdownmail.com"/> ) | A pentesting tool sed to emulate radio protocols, control systems, RFID/NFC, bluetooth, infared, and much more! You can read about it [here](https://flipperzero.one/).
 
 ## [O.M.G USB Plug](https://shop.hak5.org/products/omg-plug)
 $**74.99** | A USB plug that utilizes Keystroke Injection from **Hak5**. 
