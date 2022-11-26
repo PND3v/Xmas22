@@ -1,12 +1,21 @@
 # My Christmas List
-This list will be updated over time. I understand not all items are able to ship before Christmas, and that's okay with me. I also understand that I most likely won't be able to get everything on this list, so I updated this list to be (mostly) organized by priority. [**Other**](https://github.com/PND3v/Xmas22#other) is below [**Clothes**](https://github.com/PND3v/Xmas22#clothes) cause I felt like organizing it like that lol. Striked through text are things that are no longer of interest or in high demand in my opinion. Click on the product's *title* to be directly linked to the item's store, shop page, or purchasing interface. Thx, bye!
+This list will be updated over time. I understand not all items are able to ship before Christmas, and that's okay with me. I also understand that I most likely won't be able to get everything on this list, so I updated this list to be (mostly) organized by priority. [**Other**](https://github.com/PND3v/Xmas22#other) is below [**Clothes**](https://github.com/PND3v/Xmas22#clothes) cause I felt like organizing it like that lol. Striked through text are things that are no longer of interest or in high demand in my opinion, or seem like too much to ask for. Click on the product's *title* to be directly linked to the item's store, shop page, or purchasing interface. Thx, bye!
 
 -----
 ## [Flipper Zero](https://shop.flipperzero.one/)
 $**169.00** | A pentesting tool sed to emulate radio protocols, control systems, RFID/NFC, bluetooth, infared, and much more! You can read about it [here](https://flipperzero.one/).
 
+## [O.M.G USB Plug](https://shop.hak5.org/products/omg-plug)
+$**74.99** | A USB plug that utilizes Keystroke Injection from **Hak5**. 
+
 ## ~~[NVIDIA GeForce RTX 4080](https://store.nvidia.com/en-us/geforce/store/?page=1&limit=9&locale=en-us&gpu=RTX%204080&category=GPU,DESKTOP)~~
 ~$**1,199.99** | The latest in high-end gaming graphics cards, brought to you by Nvidia. Read more about the **RTX 4080** [here](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4080/).
+
+## ~~[ASIC miner or GPU mining rig]()~~
+$**** | Prices tend to vary. Will updaate later.
+
+## [Forza Horizon 5](https://store.steampowered.com/app/1551360/Forza_Horizon_5/)
+$**59.99** | Fast-paced car racing game. This is the fifth version of this game, getting released over a year ago on November 8, 2021.
 
 ## Clothes
 
@@ -17,17 +26,8 @@ $6.00 [SHEIN Daisy Embroidered Rib-knit Tee](https://us.shein.com/SHEIN-Daisy-Em
 $7.90 [Monarch Butterfly Enamel Pin](https://www.hottopic.com/product/monarch-butterfly-enamel-pin/16095777.html)
 
 -----
-Total: ~$1,008.73 😿
+Total: ~$**** 🙀
 
-
-[  ] ASIC miner &/or GPU mining rig
-
-[  ] Forza Horizon 5
-
-[v] obfuscation software
-
-[  ] O.M.G USB Plug from Hak5
-https://shop.hak5.org/products/omg-plug
 
 [  ] platforms
 https://lastylerush.com/products/anthony-wang-x-lasr-exclusive-gone-rogue-studded-platform-wedge-sneakers-mangosteen-black
