@@ -2,29 +2,34 @@
 This list will be updated over time. I understand not all items are able to ship before Christmas, and that's okay with me. I also understand that I most likely won't be able to get everything on this list, so I updated this list to be (mostly) organized by priority. [**Other**](https://github.com/PND3v/Xmas22#other) is below [**Clothes**](https://github.com/PND3v/Xmas22#clothes) cause I felt like organizing it like that lol. [**Other**](https://github.com/PND3v/Xmas22#other) can also be considered the presents of recommendation for people who don't know what to get me for Christmans. Striked through text are things that are no longer of interest or in high demand in my opinion, or seem like too much to ask for. Click on the product's *title* to be directly linked to the item's store, shop page, or purchasing interface. Thx, bye!
 
 -----
-## [Flipper Zero](https://shop.flipperzero.one/)
-$**169.00** (Restocks in <img src="https://i.countdownmail.com/2874qv.gif" border="0" alt="countdownmail.com"/> ) | A pentesting tool sed to emulate radio protocols, control systems, RFID/NFC, bluetooth, infared, and much more! You can read about it [here](https://flipperzero.one/).
+## ✨Main✨
+- ## [Flipper Zero](https://shop.flipperzero.one/)
+  $**169.00** `Restocking in 4 Days!` | A pentesting tool sed to emulate radio protocols, control systems, RFID/NFC, bluetooth, infared, and much more! You can read about it [here](https://flipperzero.one/).
 
-## [O.M.G USB Plug](https://shop.hak5.org/products/omg-plug)
-$**74.99** | A USB plug that utilizes Keystroke Injection from **Hak5**. 
+- ## [O.M.G USB Plug](https://shop.hak5.org/products/omg-plug)
+  $**74.99** | A USB plug that utilizes Keystroke Injection from **Hak5**. 
 
-## ~~[NVIDIA GeForce RTX 4080](https://store.nvidia.com/en-us/geforce/store/?page=1&limit=9&locale=en-us&gpu=RTX%204080&category=GPU,DESKTOP)~~
-~$**1,199.99** | The latest in high-end gaming graphics cards, brought to you by Nvidia. Read more about the **RTX 4080** [here](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4080/).
+- ## ~~[NVIDIA GeForce RTX 4080](https://store.nvidia.com/en-us/geforce/store/?page=1&limit=9&locale=en-us&gpu=RTX%204080&category=GPU,DESKTOP)~~
+  ~$**1,199.99** | The latest in high-end gaming graphics cards, brought to you by Nvidia. Read more about the **RTX 4080** [here](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4080/).
 
-## ~~[ASIC miner or GPU mining rig]()~~
-$**** | Prices tend to vary. Will updaate later.
+- ## ~~[ASIC miner or GPU mining rig]()~~
+  $**** | Prices tend to vary. Will updaate later.
+
+-----
 
 ## Clothes
+- ## [Graffiti Jeans](https://www.boohooman.com/us/tall-skinny-bandana-rip-graffiti-jeans/BMM01178-105-269.html)
+  $**20.00** (**60% off**) ~~$**50.00**~~ | Tall skinny bandana RIP graffiti jeans | Size: `M(34)`
 
-$6.00 [SHEIN Daisy Embroidered Rib-knit Tee](https://us.shein.com/SHEIN-Daisy-Embroidered-Rib-knit-Tee-p-1941079-cat-1738.html) Size: `M(6)`
+-----
 
 ## Other
-## [Forza Horizon 5](https://store.steampowered.com/app/1551360/Forza_Horizon_5/)
-$**59.99** | Fast-paced car racing game. This is the fifth version of this game, getting released over a year ago on November 8, 2021.
+- ## [Forza Horizon 5](https://store.steampowered.com/app/1551360/Forza_Horizon_5/)
+  $**59.99** | Fast-paced car racing game. This is the fifth version of this game, getting released over a year ago on November 8, 2021.
 
 
-## Pet hair/lint [clothes] roller
-~$5–15 | It's in the name. Really a meme/joke present, but would still actually find it cool and appreciate it as a gift if [it] was given to me.
+- ## Pet hair/lint [clothes] roller
+  ~$5–$15 | It's in the name. Really a meme/joke present, but would still actually find it cool and appreciate it as a gift if [it] was given to me.
 -----
 Total: ~$**** 🙀
 
@@ -35,9 +40,6 @@ https://lastylerush.com/products/anthony-wang-x-lasr-exclusive-gone-rogue-studde
 https://lastylerush.com/products/demonia-playdate-platform-boots-ash57-bpvl-ashes-57-ashes57-baby-pink
 
 https://www.ankraal.com/collections/platform-boots?SC-BT16-0825-BM-001
-
-[  ] graffiti jeans
-https://www.boohooman.com/us/tall-skinny-bandana-rip-graffiti-jeans/BMM01178-105-269.html
 
 [  ] NFC/RFID Ring
 https://dangerousthings.com/product/magic-ring/
