@@ -22,10 +22,10 @@ This list will be updated over time. I understand not all items are able to ship
   $**20.00** ~~$**50.00**~~ (**60% off**) | Tall skinny bandana RIP graffiti jeans | Size: `M(34)`
   
 - ## Platforms
-  - [X LASR Exclusive Gone Rogue Platform Sneakers](https://lastylerush.com/products/anthony-wang-x-lasr-exclusive-gone-rogue-studded-platform-wedge-sneakers-mangosteen-black) \
+  - [**X LASR Exclusive Gone Rogue Platform Sneakers**](https://lastylerush.com/products/anthony-wang-x-lasr-exclusive-gone-rogue-studded-platform-wedge-sneakers-mangosteen-black) \
   $**66.00** ~~$**88.00**~~ (**on sale**) | By Anthony Wang | Size: `8.5`
 
-  - [Playdate Platform Boots](https://lastylerush.com/products/demonia-playdate-platform-boots-ash57-bpvl-ashes-57-ashes57-baby-pink) \
+  - [**Playdate Platform Boots**](https://lastylerush.com/products/demonia-playdate-platform-boots-ash57-bpvl-ashes-57-ashes57-baby-pink) \
     $**105.00** | By Demonia | Size: `8`
 
 -----
