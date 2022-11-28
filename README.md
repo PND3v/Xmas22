@@ -3,7 +3,7 @@ This list will be updated over time. I understand not all items are able to ship
 
 -----
 ## ✨Main✨
-- ## [Flipper Zero](https://shop.flipperzero.one/)
+- ## [Flipper Zero](https://shop.flipperzero.one/) <img src="https://teamkuso.xyz/img/Xmas22/flipper-transparent.png" alt="Flipper" width="100" height="56"/>
   $**169.00** `Restocking in 4 Days!` | A pentesting tool sed to emulate radio protocols, control systems, RFID/NFC, bluetooth, infared, and much more! You can read about it [here](https://flipperzero.one/).
 
 - ## [O.M.G USB Plug](https://shop.hak5.org/products/omg-plug)
