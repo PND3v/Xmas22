@@ -37,15 +37,13 @@ This list will be updated over time. I understand not all items are able to ship
 
 - ## Pet hair/lint [clothes] roller
   ~$5–$15 | It's in the name. Really a meme/joke present, but would still actually find it cool and appreciate it as a gift if [it] was given to me.
+  
+- ## ~~[NFC/RFID Ring](https://dangerousthings.com/product/magic-ring/)~~
+  $**59.00** – $**186.84** | Magic Ring (Magic Mifare 1k + T5577) | Size: `9.5`, Add-On: `Access Kit + Proxmark3`
 -----
 Total: ~$**** 🙀
 
 ## Unorganized
-
-https://www.ankraal.com/collections/platform-boots?SC-BT16-0825-BM-001
-
-[  ] NFC/RFID Ring
-https://dangerousthings.com/product/magic-ring/
 
 [  ] DragonRonpa Mini Backpack
 https://www.hottopic.com/product/danganronpa-3-the-end-of-hopes-peak-high-school-ibuki-mioda-mini-backpack/16915684.html
