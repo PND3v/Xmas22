@@ -44,4 +44,4 @@ This list will be updated over time. I understand not all items are able to ship
 - ## ~~[NFC/RFID Ring](https://dangerousthings.com/product/magic-ring/)~~
   $**59.00** – $**186.84** | Magic Ring (Magic Mifare 1k + T5577) | Size: `9.5`, Add-On: `Access Kit + Proxmark3`
 -----
-Total: ~$**** 🙀
+Total: ~$**559.88** 🙀
