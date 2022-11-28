@@ -13,7 +13,7 @@ This list will be updated over time. I understand not all items are able to ship
   ~$**1,199.99** | The latest in high-end gaming graphics cards, brought to you by Nvidia. Read more about the **RTX 4080** [here](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4080/).
 
 - ## ~~[ASIC miner or GPU mining rig]()~~
-  $**** | Prices tend to vary. Will updaate later.
+  $**** | Prices tend to vary. Will update later.
 
 -----
 
