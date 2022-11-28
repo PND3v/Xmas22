@@ -1,10 +1,10 @@
 # My Christmas List
-This list will be updated over time. I understand not all items are able to ship before Christmas, and that's okay with me. I also understand that I most likely won't be able to get everything on this list, so I updated this list to be (mostly) organized by priority. [**Other**](https://github.com/PND3v/Xmas22#other) is below [**Clothes**](https://github.com/PND3v/Xmas22#clothes) cause I felt like organizing it like that lol. [**Other**](https://github.com/PND3v/Xmas22#other) can also be considered the presents of recommendation for people who don't know what to get me for Christmans. Striked through text are things that are no longer of interest or in high demand in my opinion, or seem like too much to ask for. Click on the product's *title* to be directly linked to the item's store, shop page, or purchasing interface. Thx, bye!
+This list will be updated over time. I understand not all items are able to ship before Christmas, and that's okay with me. I also understand that I most likely won't be able to get everything on this list, so I made it to be (mostly) organized by priority. [**Other**](https://github.com/PND3v/Xmas22#other) is below [**Clothes**](https://github.com/PND3v/Xmas22#clothes) cause I felt like organizing it like that lol. [**Other**](https://github.com/PND3v/Xmas22#other) can also be considered the presents of recommendation for people who don't know what to get me for Christmans. Striked through text are things that are no longer of interest or in high demand in my opinion, or seem like too much to ask for. Click on the product's *title* to be directly linked to the item's store, shop page, or purchasing interface. Thx, bye!
 
 -----
 ## ✨Main✨
 - ## [Flipper Zero](https://shop.flipperzero.one/)
-  $**169.00** `Restocking in 3 Days!` | A pentesting tool used to emulate radio protocols, control systems, RFID/NFC, bluetooth, infared, and much more! You can read about it [here](https://flipperzero.one/).
+  $**169.00** `Restocking in 3 Days!` | A pentesting tool used to emulate radio protocols, control systems, RFID/NFC tags, bluetooth devices, infared, and much more! You can read about it [here](https://flipperzero.one/).
 
 - ## [O.M.G USB Plug](https://shop.hak5.org/products/omg-plug)
   $**74.99** | A USB plug that utilizes Keystroke Injection from **Hak5**. 
