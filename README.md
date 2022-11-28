@@ -3,7 +3,7 @@ This list will be updated over time. I understand not all items are able to ship
 
 -----
 ## ✨Main✨
-- ## [Flipper Zero](https://shop.flipperzero.one/) <img src="https://teamkuso.xyz/img/Xmas22/flipper-transparent.png" alt="Flipper" width="100" height="56"/>
+- ## [Flipper Zero](https://shop.flipperzero.one/)
   $**169.00** `Restocking in 4 Days!` | A pentesting tool sed to emulate radio protocols, control systems, RFID/NFC, bluetooth, infared, and much more! You can read about it [here](https://flipperzero.one/).
 
 - ## [O.M.G USB Plug](https://shop.hak5.org/products/omg-plug)
@@ -19,7 +19,14 @@ This list will be updated over time. I understand not all items are able to ship
 
 ## Clothes
 - ## [Graffiti Jeans](https://www.boohooman.com/us/tall-skinny-bandana-rip-graffiti-jeans/BMM01178-105-269.html)
-  $**20.00** (**60% off**) ~~$**50.00**~~ | Tall skinny bandana RIP graffiti jeans | Size: `M(34)`
+  $**20.00** ~~$**50.00**~~ (**60% off**) | Tall skinny bandana RIP graffiti jeans | Size: `M(34)`
+  
+- ## Platforms
+  - [X LASR Exclusive Gone Rogue Platform Sneakers](https://lastylerush.com/products/anthony-wang-x-lasr-exclusive-gone-rogue-studded-platform-wedge-sneakers-mangosteen-black) \
+  $**66.00** ~~$**88.00**~~ (**on sale**) | By Anthony Wang | Size: `8.5`
+
+  - [Playdate Platform Boots](https://lastylerush.com/products/demonia-playdate-platform-boots-ash57-bpvl-ashes-57-ashes57-baby-pink) \
+    $**105.00** | By Demonia | Size: `8`
 
 -----
 
@@ -33,18 +40,12 @@ This list will be updated over time. I understand not all items are able to ship
 -----
 Total: ~$**** 🙀
 
-
-[  ] platforms
-https://lastylerush.com/products/anthony-wang-x-lasr-exclusive-gone-rogue-studded-platform-wedge-sneakers-mangosteen-black
-
-https://lastylerush.com/products/demonia-playdate-platform-boots-ash57-bpvl-ashes-57-ashes57-baby-pink
+## Unorganized
 
 https://www.ankraal.com/collections/platform-boots?SC-BT16-0825-BM-001
 
 [  ] NFC/RFID Ring
 https://dangerousthings.com/product/magic-ring/
-
-https://www.amazon.com/Waterproof-Universal-All-round-Technology-Wearable/dp/B0916RCJ4D
 
 [  ] DragonRonpa Mini Backpack
 https://www.hottopic.com/product/danganronpa-3-the-end-of-hopes-peak-high-school-ibuki-mioda-mini-backpack/16915684.html
