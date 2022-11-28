@@ -31,19 +31,17 @@ This list will be updated over time. I understand not all items are able to ship
 -----
 
 ## Other
+- ## [DragonRonpa Mini Backpack](https://www.hottopic.com/product/danganronpa-3-the-end-of-hopes-peak-high-school-ibuki-mioda-mini-backpack/16915684.html)
+  $**49.90** | Danganronpa 3: The End Of Hope's Peak High School Ibuki Mioda Mini Backpack
+
 - ## [Forza Horizon 5](https://store.steampowered.com/app/1551360/Forza_Horizon_5/)
   $**59.99** | Fast-paced car racing game. This is the fifth version of this game, getting released over a year ago on November 8, 2021.
 
 
 - ## Pet hair/lint [clothes] roller
-  ~$5–$15 | It's in the name. Really a meme/joke present, but would still actually find it cool and appreciate it as a gift if [it] was given to me.
+  ~$5 – $15 | It's in the name. Really a meme/joke present, but would still actually find it cool and appreciate it as a gift if [it] was given to me.
   
 - ## ~~[NFC/RFID Ring](https://dangerousthings.com/product/magic-ring/)~~
   $**59.00** – $**186.84** | Magic Ring (Magic Mifare 1k + T5577) | Size: `9.5`, Add-On: `Access Kit + Proxmark3`
 -----
 Total: ~$**** 🙀
-
-## Unorganized
-
-[  ] DragonRonpa Mini Backpack
-https://www.hottopic.com/product/danganronpa-3-the-end-of-hopes-peak-high-school-ibuki-mioda-mini-backpack/16915684.html
