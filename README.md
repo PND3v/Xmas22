@@ -7,7 +7,7 @@ This list will be updated over time. I understand not all items are able to ship
   $**169.00** `Restocking in 3 Days!` | A pentesting tool used to emulate radio protocols, control systems, RFID/NFC tags, bluetooth devices, infared, and much more! You can read about it [here](https://flipperzero.one/).
 
 - ## [O.M.G USB Plug](https://shop.hak5.org/products/omg-plug)
-  $**74.99** | A USB plug that utilizes Keystroke Injection from **Hak5**. 
+  $**74.99** | A USB plug that utilizes Keystroke Injection. From **Hak5**. 
 
 - ## ~~[NVIDIA GeForce RTX 4080](https://store.nvidia.com/en-us/geforce/store/?page=1&limit=9&locale=en-us&gpu=RTX%204080&category=GPU,DESKTOP)~~
   ~$**1,199.99** | The latest in high-end gaming graphics cards, brought to you by Nvidia. Read more about the **RTX 4080** [here](https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4080/).
